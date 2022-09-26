@@ -1,0 +1,4 @@
+name: iPipeTech
+main: top.ilorain.iPipeTech
+version: ${project.version}
+author: Lorain.Li

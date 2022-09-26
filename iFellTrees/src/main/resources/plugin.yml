@@ -1,0 +1,7 @@
+name: iFellTrees
+main: top.ilorain.felltrees.iFellTrees
+version: 0.0.1
+author: Lorain.Li
+description: This plugin help player fells trees easier.
+api-version: 1.18.2
+aliases: ift
